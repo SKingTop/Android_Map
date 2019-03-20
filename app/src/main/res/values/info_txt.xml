@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">IT компании</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>В мире есть несколько крупных IT гигантов.</b> <BR>
+        В этой программе вы сможете узнать их расположение и их краткую историю.<BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Apple</string>
+    <string name="marker1_txt_click">Купертино, Калифорния, США</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Apple Park</b> - действующая штаб-квартира компании Apple в Купертино, Калифорния.<BR>
+        Офис занимает 71 гектар. Только в одном круговом четырёхэтажном здании площадью 260 000 м2 работает более 12 000 работников.<BR>
+        Стив Джобс хотел, чтобы кампус был больше похож на заказник, чем на офис. <BR>
+        Поэтому восемьдесят процентов территории покрывают зелёные насаждения.<BR>
+        Сайт: https://www.apple.com<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/APPLE/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Facebook</string>
+    <string name="marker2_txt_click">Менло-Парк, Калифорния, США</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Facebook</b> — крупнейшая социальная сеть в мире <BR> и одноименная компания (Facebook Inc.), владеющая ею.<BR>
+        Была основана 4 февраля 2004 года Марком Цукербергом и его соседями по комнате во время обучения в Гарвардском университете.<BR>
+        Сайт: https://www.facebook.com<BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/FACEBOOK/index.html</string>
+
+    <!--  -->
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Google</string>
+    <string name="marker3_txt_click">Маунтин-Вью, Калифорния, США</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>Google</b> — американская транснациональная публичная корпорация, реорганизованная 2 октября 2015 года <BR>
+        в международный конгломерат Alphabet Inc., компания в составе холдинга Alphabet, инвестирующая в интернет-поиск, облачные вычисления и рекламные технологии.<BR>
+        Google поддерживает и разрабатывает ряд интернет-сервисов и продуктов и получает прибыль в первую очередь от рекламы через свою программу AdWords<BR>
+        Сайт: https://www.google.com<BR>
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/GOOGLE/index.html</string>
+
+    <!--  -->
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Microsoft</string>
+    <string name="marker4_txt_click">Редмонд, Вашингтон, США</string>
+    <string name="marker4_info">
+        <![CDATA[
+        <b>Microsoft</b> — одна из крупнейших транснациональных компаний по производству проприетарного программного обеспечения для различного рода вычислительной  <BR>
+        техники — персональных компьютеров, игровых приставок, КПК, мобильных телефонов и прочего,<BR>
+        разработчик наиболее широко распространённой на данный момент в мире программной платформы — семейства операционных систем Windows.<BR>
+        Сайт: https://www.microsoft.com<BR>
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/MICROSOFT/index.html</string>
+
+</resources>
